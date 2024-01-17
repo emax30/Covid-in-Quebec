@@ -6,6 +6,4 @@ The regression discontinuity design (RDD) method was used to analyze the effect 
 ![Covid cases in Quebec in 2020-2021](https://github.com/emax30/Covid-in-Quebec/blob/main/screenshots/Screenshot%202024-01-16%20171834.png)
 
 # Effect of lockdowns and school reopening on the number of cases
-![Covid cases in Quebec in 2020-2021](https://github.com/emax30/Covid-in-Quebec/blob/main/screenshots/Screenshot%202024-01-16%20171937.png)
-![Covid cases in Quebec in 2020-2021](https://github.com/emax30/Covid-in-Quebec/blob/main/screenshots/Screenshot%202024-01-16%20172106.png)
-![Covid cases in Quebec in 2020-2021](https://github.com/emax30/Covid-in-Quebec/blob/main/screenshots/Screenshot%202024-01-16%20172132.png)
+
